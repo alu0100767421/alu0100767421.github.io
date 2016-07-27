@@ -19,6 +19,7 @@ Asignaturas
 **Tercero**
 
  - Desarrollo de Sistemas Informáticos
+ - Bases de Datos
 
 
 
